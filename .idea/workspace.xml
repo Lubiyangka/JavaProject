@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
@@ -145,7 +146,7 @@
       <workItem from="1697762784246" duration="3009000" />
       <workItem from="1697765900893" duration="556000" />
       <workItem from="1697767084329" duration="149000" />
-      <workItem from="1697767244189" duration="218000" />
+      <workItem from="1697767244189" duration="818000" />
     </task>
     <task id="LOCAL-00001" summary="新增SwingUI设计">
       <created>1697765550882</created>
