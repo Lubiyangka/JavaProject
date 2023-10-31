@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     int id;
     String name;
@@ -22,22 +25,24 @@ public class Main {
     }
 
     public static void main(String[] args){
-//        Pillar pillar;
-//        Geometry bottom;
-//
-//        bottom = new Rectangle(12,12);
-//        pillar = new Pillar(bottom, 60);
-//        System.out.println(pillar.getVolume());
-//        bottom = new Circle(13);
-//        pillar = new Pillar(bottom, 1);
-//        System.out.println(pillar.getVolume());
-        Main class1 = new Main(1,"Tom");
-        class1.print();
-        Main class2 = new Main(2,"Tkk");
-        class2.print();
-        Main aClass = new Main(3,"jj");
-        Main.MC mc = aClass.new MC();
-        mc.print();
-
+////        Pillar pillar;
+////        Geometry bottom;
+////
+////        bottom = new Rectangle(12,12);
+////        pillar = new Pillar(bottom, 60);
+////        System.out.println(pillar.getVolume());
+////        bottom = new Circle(13);
+////        pillar = new Pillar(bottom, 1);
+////        System.out.println(pillar.getVolume());
+//        Main class1 = new Main(1,"Tom");
+//        class1.print();
+//        Main class2 = new Main(2,"Tkk");
+//        class2.print();
+//        Main aClass = new Main(3,"jj");
+//        Main.MC mc = aClass.new MC();
+//        mc.print();
+        List<Circle> circleList = new ArrayList<>();
+        circleList.add(new Circle(3));
+        System.out.println(circleList.get(0));
     }
 }

@@ -11,7 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/class_class_/class_class_.iml" filepath="$PROJECT_DIR$/class_class_/class_class_.iml" />
       <module fileurl="file://$PROJECT_DIR$/class_clock/class_clock.iml" filepath="$PROJECT_DIR$/class_clock/class_clock.iml" />
       <module fileurl="file://$PROJECT_DIR$/class_io/class_io.iml" filepath="$PROJECT_DIR$/class_io/class_io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class_socket/class_socket.iml" filepath="$PROJECT_DIR$/class_socket/class_socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/class_swing_1/class_swing.iml" filepath="$PROJECT_DIR$/class_swing_1/class_swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class_thread/class_thread.iml" filepath="$PROJECT_DIR$/class_thread/class_thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/class_throw/class_throw.iml" filepath="$PROJECT_DIR$/class_throw/class_throw.iml" />
       <module fileurl="file://$PROJECT_DIR$/course.iml" filepath="$PROJECT_DIR$/course.iml" />
     </modules>
