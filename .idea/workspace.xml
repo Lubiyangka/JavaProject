@@ -16,9 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package.json" />
         <option value="JHipster JDL File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -156,6 +156,7 @@
       <workItem from="1698479101108" duration="12000" />
       <workItem from="1698483600660" duration="698000" />
       <workItem from="1698749225461" duration="5451000" />
+      <workItem from="1698755392870" duration="591000" />
     </task>
     <task id="LOCAL-00001" summary="新增SwingUI设计">
       <created>1697765550882</created>

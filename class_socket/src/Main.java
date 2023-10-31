@@ -75,6 +75,7 @@ public class Main {
     public static void main(String[] args) throws MalformedURLException {
 //        InetAddressDemo();
 //        URLDemo();
-        UseURL();
+//        UseURL();
+        
     }
 }
