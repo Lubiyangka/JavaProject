@@ -9,6 +9,7 @@ public class Main {
         horse2.start();
     }
 }
+
 class HorseThread extends Thread {
     private final String name;
     private int progress;

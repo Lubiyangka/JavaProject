@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/class_thread/class_thread.iml" filepath="$PROJECT_DIR$/class_thread/class_thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/class_throw/class_throw.iml" filepath="$PROJECT_DIR$/class_throw/class_throw.iml" />
       <module fileurl="file://$PROJECT_DIR$/course.iml" filepath="$PROJECT_DIR$/course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
